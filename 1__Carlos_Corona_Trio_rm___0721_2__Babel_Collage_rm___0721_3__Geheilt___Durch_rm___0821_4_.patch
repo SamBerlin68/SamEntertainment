@@ -1,0 +1,294 @@
+Index: events/index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/events/index.html b/events/index.html
+--- a/events/index.html	(revision 506689ab93f8ad3091ff29ee76defc7e05fd8331)
++++ b/events/index.html	(date 1621164655274)
+@@ -92,7 +92,7 @@
+ 
+     <div class="card text-white bg-dark m-4 px-m-1 " style="width: auto">
+         <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">23.04.2020 wegen der Corona-Krise verschoben auf 05.11.2020</div>
++                <div class="card-header">23.04.2020 wegen der Corona-Krise verschoben auf unbekannt</div>
+                     <div class="card-body bg-white text-dark">
+                         <h4 class="card-title">Annes Kampf</h4>
+                         <p class="card-text">Zwickau, Peter-Breuer-Gymnasium</p>
+@@ -105,7 +105,7 @@
+ 
+     <div class="card text-white bg-dark m-4 px-m-1 " style="width: auto">
+         <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">23.04.2020 wegen der Corona-Krise verschoben auf 05.11.2020</div>
++                <div class="card-header">23.04.2020 wegen der Corona-Krise verschoben auf unbekannt</div>
+                     <div class="card-body bg-white text-dark">
+                         <h4 class="card-title">Annes Kampf</h4>
+                         <p class="card-text">Zwickau, Alter Gasometer</p>
+@@ -150,7 +150,7 @@
+ 
+      <div class="card text-white bg-dark m-4 px-m-1 " style="mawidth: auto">
+          <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">12.06.2020 wegen der Corona-Krise verschoben auf 11.06.2021</div>
++                <div class="card-header">12.06.2020 wegen der Corona-Krise verschoben auf unbekannt</div>
+                     <div class="card-body bg-white text-dark">
+                         <h4 class="card-title">Annes Kampf</h4>
+                         <p class="card-text">Cuxhaven, Stadttheater | Schulaufführung</p>
+@@ -158,139 +158,29 @@
+                     <div class="card-footer bg-dark ">
+                         <div class="text-sm-center">Eine Produktion von Blum&Rohm</div>
+                     </div>
+-
+-     </div>
+-
+-     <div class="card text-white bg-dark m-4 px-m-1 " style="width: auto">
+-       <a href="../blum_und_heckmann"> <img src="../images/Carlos Corona Trio.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">17.07.2020</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">Carlos Corona Trio</h4>
+-                        <p class="card-text">Theater Putbus</p>
+-                    </div>
+-                 <div class="card-footer bg-dark">
+-                        <p><div class="text-sm-center">Eine Konzert des Carlos Corona Trios</div></p>
+-                     <div class="text-sm-center"> <a href="https://theater-vorpommern-ticket.eventim-inhouse.de/webshop/webticket/seatmap?eventId=15445&el=true" class="btn btn-primary">Tickets</a></div>
+-
+-                </div>
+-
+-    </div>
+-
+-    <div class="card text-white bg-dark m-4 px-m-1 " style="width: auto">
+-       <a href="../blum_und_heckmann"> <img src="../images/Babel Collage.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">23.07.2020</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">Babel Collage</h4>
+-                        <p class="card-text">Theater Putbus</p>
+-                    </div>
+-                 <div class="card-footer bg-dark">
+-                        <p><div class="text-sm-center">Eine Konzert von Babel Collage</div></p>
+-                     <div class="text-sm-center"> <a href="https://theater-vorpommern-ticket.eventim-inhouse.de/webshop/webticket/seatmap?eventId=15446&el=true" class="btn btn-primary">Tickets</a></div>
+-
+-                </div>
+-
+-    </div>
+-
+-    <div class="card text-white bg-dark m-4 px-m-1 " style="mawidth: auto">
+-        <a href="../junta"> <img src="../images/junta0.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">Sommer Special 08.08.2020</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">GEHEILT : DURCH</h4>
+-                        <p class="card-text">Museumshof Fulda</p>
+-
+-                    </div>
+-                    <div class="card-footer bg-dark">
+-                        <p><div class="text-sm-center">Eine Produktion von JUNTA</div></p>
+-                        <div class="text-sm-center"> <a href="https://kreuz.reservix.de/p/reservix/event/1586375" class="btn btn-primary">Tickets</a></div>
+-
+-                        </div>
+-
+-
+-
+-
+-        </div>
+-
+-     <div class="card text-white bg-dark m-4 px-m-1 " style="width: auto">
+-       <a href="../blum_und_heckmann"> <img src="../images/Babel Collage.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">13.08.2020</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">Babel Collage</h4>
+-                        <p class="card-text">Theater Putbus</p>
+-                    </div>
+-                 <div class="card-footer bg-dark">
+-                        <p><div class="text-sm-center">Eine Konzert von Babel Collage</div></p>
+-                     <div class="text-sm-center"> <a href="https://theater-vorpommern-ticket.eventim-inhouse.de/webshop/webticket/seatmap?eventId=15447&el=true" class="btn btn-primary">Tickets</a></div>
+-
+-                </div>
+-
+-    </div>
+-
+-    <div class="card text-white bg-dark m-4 px-m-1 " style="mawidth: auto">
+-        <a href="../junta"> <img src="../images/junta0.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">Vorpremiere 31.08.2020</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">GEHEILT : DURCH</h4>
+-                        <p class="card-text">Theater Putbus</p>
+-
+-                    </div>
+-                    <div class="card-footer bg-dark">
+-                        <p><div class="text-sm-center">Eine Produktion von JUNTA</div></p>
+-                        <div class="text-sm-center"> <a href="https://theater-vorpommern-ticket.eventim-inhouse.de/webshop/webticket/seatmap?eventId=15457&el=true" class="btn btn-primary">Tickets</a></div>
+-
+-                        </div>
+-
+-
+-
+-
+-        </div>
+-
+-
+-    <div class="card text-white bg-dark m-4 px-m-1 " style="width: auto">
+-       <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">06.09.2020</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">Annes Kampf</h4>
+-                        <p class="card-text">Wilhelmshaven, Pumpwerk</p>
+-                    </div>
+-                 <div class="card-footer bg-dark">
+-                        <p><div class="text-sm-center">Eine Produktion von Blum&Rohm</div></p>
+-                     <div class="text-sm-center"> <a href="https://www.pumpwerk.de/programm/veranstaltungen/details-event/annes-kampf/ " class="btn btn-primary">Tickets</a></div>
+-                </div>
+-
+-    </div>
+-
+- <div class="card text-white bg-dark m-4 px-m-1 " style="width: auto">
+-        <a href="../blum_und_heckmann"><img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">02.10.2020</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">Annes Kampf</h4>
+-                        <p class="card-text">Rheine, Stadthalle </p>
+-                    </div>
+-                        <div class="card-footer bg-dark">
+-                            <p><div class="text-sm-center">Eine Produktion von Blum&Rohm</div></p>
+-                            <div class="text-sm-center"> <a href="https://stadthalle-rheine.de/veranstaltungen/annes-kampf-anne-frank-vs-adolf-hitler/" class="btn btn-primary">Tickets</a></div>
+-                    </div>
+ 
+-                 </div>
++     </div>
+ 
+ 
+ 
+ 
+ 
+-    <div class="card text-white bg-dark m-4 px-m-1 " style="mawidth: auto">
+-        <a href="../duelle"><img src="../images/duelle1.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">04.10.2020</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">Die Waffeln der Frau</h4>
+-                        <p class="card-text">Theater an der Niebuhrg Oberhausen</p>
+-                    </div>
+-                <div class="card-footer bg-dark ">
+-                    <p><div class="text-sm-center">  Eine Produktion von DUELLE </div></p>
+-                    <div class="text-sm-center"><a href="https://niebuhrg.de/shop/die-waffeln-der-frau/" class="btn btn-primary">Tickets</a></div>
+-                </div>
++
++
++
++
++
++
++
++
++
++
+ 
+ 
+-    </div>
++
++
++
++
+ 
+     <div class="card text-white bg-dark m-4 px-m-1 " style="width: auto">
+         <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+@@ -400,7 +290,7 @@
+ 
+     <div class="card text-white bg-dark m-4 px-m-1 " style="mawidth: auto">
+        <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">25.11.2020 verschoben auf 27.09.21</div>
++                <div class="card-header">25.11.2020 verschoben auf 27.09.2021</div>
+                     <div class="card-body bg-white text-dark">
+                         <h4 class="card-title">Annes Kampf</h4>
+                         <p class="card-text">Kulturhaus Weißenfels</p>
+@@ -418,7 +308,7 @@
+ 
+      <div class="card text-white bg-dark m-4 px-m-1 " style="mawidth: auto">
+         <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-            <div class="card-header">16.01.2021</div>
++            <div class="card-header">16.01.2021 verschoben auf 29.01.22</div>
+                     <div class="card-body bg-white text-dark">
+                         <h4 class="card-title">Annes Kampf</h4>
+                         <p class="card-text">Grafschaft, Winzerverein</p>
+@@ -430,7 +320,7 @@
+ 
+     <div class="card text-white bg-dark m-4 px-m-1" style="mawidth: auto">
+         <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">20.01.2021</div>
++                <div class="card-header">20.01.2021 verschoben auf 20.01.0222</div>
+                     <div class="card-body bg-white text-dark">
+                         <h5 class="card-title">Annes Kampf</h5>
+                         <p class="card-text">Theater Meißen, Meißen</p>
+@@ -445,7 +335,7 @@
+ 
+     <div class="card text-white bg-dark m-4 px-m-1" style="mawidth: auto">
+         <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">30.01.2021 Verschoben auf unbestimmt</div>
++                <div class="card-header">30.01.2021 Verschoben auf unbekannt</div>
+                     <div class="card-body bg-white text-dark">
+                         <h5 class="card-title">Annes Kampf</h5>
+                         <p class="card-text">Schüttekeller, Bühl</p>
+@@ -457,7 +347,7 @@
+ 
+     <div class="card text-white bg-dark m-4 px-m-1 " style="mawidth: auto">
+         <a href="../junta"> <img src="../images/junta0.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">Premiere 06.03.2020</div>
++                <div class="card-header">Premiere 06.03.2020 verschoben auf unbekannt</div>
+                     <div class="card-body bg-white text-dark">
+                         <h4 class="card-title">GEHEILT : DURCH</h4>
+                         <p class="card-text">Kabarett-Theater Distel, Berlin</p>
+@@ -473,7 +363,7 @@
+ 
+     <div class="card text-white bg-dark m-4 px-m-1" style="width: auto">
+         <a href="../duelle"><img src="../images/duelle1.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">13.03.2021</div>
++                <div class="card-header">13.03.2021 verschoben auf 12.03.2022</div>
+                     <div class="card-body bg-white text-dark">
+                         <h4 class="card-title">Die Waffeln der Frau</h4>
+                         <p class="card-text ">Horb, Kultur im Kloster</p>
+@@ -484,23 +374,11 @@
+                             </div>
+     </div>
+ 
+-    <div class="card text-white bg-dark m-4 px-m-1 " style="mawidth: auto">
+-        <a href="../junta"> <img src="../images/junta0.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">Premiere 19.03.2020</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">GEHEILT : DURCH</h4>
+-                        <p class="card-text">Kabarett-Theater Distel, Berlin</p>
+-                    </div>
+-                <div class="card-footer bg-dark">
+-                    <p><div class="text-sm-center"> Eine Produktion von JUNTA</div></p>
+-                    <div class="text-sm-center"><a href="https://distel-berlin.de/" class="btn btn-primary">Tickets</a></div>
+-                </div>
+-
+-    </div>
++
+ 
+     <div class="card text-white bg-dark m-4 px-m-1" style="mawidth: auto">
+        <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">10.04.2021</div>
++                <div class="card-header">10.04.2021 verschoben auf unbekannt</div>
+                     <div class="card-body bg-white text-dark">
+                         <h4 class="card-title">Annes Kampf</h4>
+                         <p class="card-text">Kreuz, Fulda</p>
+@@ -511,21 +389,11 @@
+                 </div>
+      </div>
+ 
+-    <div class="card text-white bg-dark m-4 px-m-1 " style="width: auto">
+-       <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">Mai 2021</div>
+-                    <div class="card-body bg-white text-dark">
+-                        <h4 class="card-title">Annes Kampf</h4>
+-                        <p class="card-text">Richard-Müller Schule, Fulda</p>
+-                    </div>
+-                <div class="card-footer bg-dark ">
+-                    <div class="text-sm-center">Eine Produktion von Blum&Rohm</div>
+-                </div>
+-    </div>
++
+ 
+ <div class="card text-white bg-dark m-4 px-m-1 " style="mawidth: auto">
+          <a href="../blum_und_heckmann"> <img src="../images/AnnesKampf_BH.jpg" class="card-img-top" alt="..."></a>
+-                <div class="card-header">11.06.2021</div>
++                <div class="card-header">11.06.2021 Verschoben auf unbekannt</div>
+                     <div class="card-body bg-white text-dark">
+                         <h4 class="card-title">Annes Kampf</h4>
+                         <p class="card-text">Cuxhaven, Stadttheater | Schulaufführung</p>
